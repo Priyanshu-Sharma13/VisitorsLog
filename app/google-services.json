@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516556764673",
+    "project_id": "visitorslogs-c8a26",
+    "storage_bucket": "visitorslogs-c8a26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516556764673:android:c94a6396d972423ea73200",
+        "android_client_info": {
+          "package_name": "com.example.visitorslogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516556764673-3fbm6jkp17kqfbf8f3snb0071482ed48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfdsvFp6riIUWqtNoxck4e2oEncAojQlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516556764673-3fbm6jkp17kqfbf8f3snb0071482ed48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+} 
